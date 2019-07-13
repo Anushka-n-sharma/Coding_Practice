@@ -5,7 +5,7 @@ Created on Fri Jul 12 23:56:50 2019
 @author: Anushka N Sharma
 """
 
-#find duplicate numbers in an array if it contains multiple duplicates
+#duplicates removed from a given array
 s=input()
 nslist=s.split(',')
 nlist=list()
